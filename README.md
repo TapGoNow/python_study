@@ -1,1 +1,3 @@
 # python_study
+
+这边主要用于记录自己python的学习进度，之前已经花了半个多月学习了用python进行爬虫的操作，最近又发现了git上的一个python 100day的项目，打算学习一下
